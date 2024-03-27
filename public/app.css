@@ -1,0 +1,18 @@
+body{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    max-width: 600px;
+    margin: 10%;
+    font-family:'Courier New', Courier, monospace
+}
+h1{
+    font-size: large;
+}
+p{
+    line-height: 1.7;
+}
+article + article {
+    margin-top: 3rem;
+    padding-top: 3rem;
+
+}
